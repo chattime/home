@@ -1,0 +1,455 @@
+#EXTM3U
+#EXTINF:-1, [COLOR cyan] =Malaysia Live TV= [/COLOR]  
+http://www.youtube.com/
+
+#EXTINF:-1,TV1
+http://d2gi9ohf9965ej.cloudfront.net/live/mp4:rtm-ch001.stream_360p/playlist.m3u8
+
+#EXTINF:-1,TV2
+http://d2gi9ohf9965ej.cloudfront.net/live/mp4:rtm-ch003.stream_360p/playlist.m3u8
+
+#EXTINF:-1,TV3
+http://tv3liveios-i.akamaihd.net/hls/live/205900/ios/tv3live/master.m3u8
+
+#EXTINF:-1,NTV7
+http://ntv7liveios-i.akamaihd.net/hls/live/205902/ios/ntv7live/master.m3u8
+
+#EXTINF:-1,8TV
+http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master.m3u8
+
+#EXTINF:-1,TV9
+http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master.m3u8
+
+#EXTINF:-1,AL HIJRAH
+http://202.73.9.10:1935/mylive/smil:tvalhijrah_all.smil/playlist.m3u8
+
+#EXTINF:-1,TVi
+http://d2gi9ohf9965ej.cloudfront.net/live/mp4:rtm-ch005.stream_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="logo.png" tvg-logo="http://cdn.sptdigital.com/sites/all/themes/responsive/responsive_set_one/logo.png" group-title="ASTRO",[COLOR aqua][I]ONE HD[/I][/COLOR]
+rtmp://54.169.145.31:8898/live/one
+
+#EXTINF:-1 tvg-logo="Astro_ria.jpg" tvg-logo="http://upload.wikimedia.org/wikipedia/en/7/71/Astro_ria.jpg" group-title="ASTRO",[COLOR aqua][I]ASTRO RIA[/I][/COLOR]
+http://www.layarku.tv/media/ria.m3u8
+
+#EXTINF:-1 tvg-logo="Astro-Arena.jpg" tvg-logo="http://vectorise.net/logo/wp-content/uploads/2011/02/Astro-Arena.jpg" group-title="ASTRO",[COLOR aqua][I]ASTRO ARENA[/I][/COLOR]
+http://ngx.cr1.streamzilla.xlcdn.com/session/8b4657971223e647093a6b8bca74ce63/sz/IMN/wowza4/live/arena/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="135_300.png" tvg-logo="http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/135_300.png" group-title="ASTRO",[COLOR aqua][I]ASTRO MAYA[/I][/COLOR]
+rtmp://54.169.145.31:8898/live/01
+
+#EXTINF:-1 tvg-logo="134_300.png" tvg-logo="http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/134_300.png" group-title="ASTRO",[COLOR aqua][I]ASTRO MUSTIKA[/I][/COLOR]
+rtmp://54.169.145.31:8898/live/02
+
+#‎EXTINF‬:0, Channel 5
+http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87ch5.smil/playlist.m3u8
+#EXTINF:0, Channel 8
+http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87ch8.smil/playlist.m3u8
+#EXTINF:0, NewsAsia
+http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87cna.smil/playlist.m3u8
+#EXTINF:0, Channel U
+http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87chu.smil/playlist.m3u8
+
+
+#EXTINF:-1, [COLOR cyan] =NEWS CHANNEL= [/COLOR]  
+http://www.youtube.com/
+
+#EXTINF:-1,1NEWS
+http://streamer4.aws.stream.my/live/mp4:rtm-ch020.stream_360p/playlist.m3u8
+
+#EXTINF:-1,ASTRO AWANI
+rtmpe://cp160334.live.edgefcs.net:1935/live app=live?ovpfv=1.1 playpath=AstroAwani24x7_3@74937 conn=Z: swfUrl=http://vdata.astroawani.com/flash/VideoPlayer.swf pageUrl=http://www.astroawani.com/videos/live swfVfy=true live=true timeout=15
+
+#EXTINF:-1,BERNAMA TV
+http://stream2.1malaysiaiptv.com:1935/mylive/smil:bernama2_all.smil/media.m3u8
+
+#EXTINF:-1,BBC WORLDS NEWS
+http://93.184.221.133/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
+
+
+
+
+
+
+#EXTINF:-1,  [COLOR cyan]-- KIDS CHANNEL --[/COLOR]  
+http://www.youtube.com/
+
+
+#EXTINF:-1 tvg-logo="cartoon.png" group-title="U.S.A",[COLOR aqua][B][I]Cartoon Network HD[/I][/B][/COLOR]
+rtmpe://185.63.252.165:1935/goLive playpath=08pydvp1b7ZwZb3a5TW1 swfUrl=http://cdn.zerocast.tv/player-licensed.swf flashver=WIN\16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/?a=3&b=6
+
+
+#EXTINF:-1 tvg-logo="nick.png" group-title=""U.S.A",[COLOR aqua][B]Nickeloden[/B][/COLOR]
+rtmpe://185.63.252.165:1935/goLive playpath=fCqfhb14WwwFbAsDbV3Z swfUrl=http://cdn.zerocast.tv/player-licensed.swf pageUrl=http://zerocast.in/embed.php?a=716&id=&width=640&height=460&autostart=true&strech token=OOG17t.x#K9Vh#|
+
+
+  
+#EXTINF:-1,SKY FAMILY
+http://37.48.118.32/live/mfamily.stream/playlist.m3u8
+
+#EXTINF:0,NICKELODEON
+http://37.48.118.32/live/nick.stream/playlist.m3u8
+
+#EXTINF:-1,NICKTOONS
+http://37.48.118.32/live/nicktoons.stream/master.m3u8
+ 
+#EXTINF:0,DISNEY XD
+http://cdn-02.sdn.si/disneyxd/disneyxd.m3u8
+ 
+#EXTINF:-1,DISNEY JR
+http://37.48.118.32/live/disneyjr.stream/master.m3u8
+
+#EXTINF:-1,KIX
+http://212.70.155.243:40665/udp/237.100.0.183:4000
+
+#EXTINF:0,CARTOON NETWORK
+http://cdn-02.sdn.si/cartoonnetwork/cartoonnetwork.m3u8
+ 
+
+#EXTINF:-1, BABIES
+http://live.oneplay.tv/reproducir/197.m3u8?ABEminIPTV
+
+#EXTINF:-1,CARTOON NETWORK(MX)
+http://live.oneplay.tv/reproducir/221.m3u8?ABEminIPTV
+
+#EXTINF:-1,DISNEY CHANNEL(MX)
+http://live.oneplay.tv/reproducir/210.m3u8?ABEminIPTV
+
+#EXTINF:-1,DISNEY JUNIOR(MX)
+http://live.oneplay.tv/reproducir/202.m3u8?ABEminIPTV
+
+#EXTINF:-1,DISCOVERY KIDS(MX)
+http://live.oneplay.tv/reproducir/194.m3u8?ABEminIPTV
+
+#EXTINF:-1,DISNEY XD(MX)
+http://live.oneplay.tv/reproducir/226.m3u8?ABEminIPTV
+
+
+#EXTINF:-1,Nick Toons
+http://37.48.118.32/live/nicktoons.stream/master.m3u8
+
+#EXTINF:-1,Disney Junior
+http://37.48.118.32/live/disneyjr.stream/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="abc7.png" group-title="U.S.A",[COLOR aqua][I]ABC[/I][/COLOR]
+rtmpe://185.63.252.165:1935/goLive playpath=rGCi7bg0Qxvs8q7Sl13l swfUrl=http://cdn.zerocast.tv/player-licensed.swf flashver=WIN\16,0,0,305 timeout=15 live=1swfVfy=1 pageUrl=http://zerocast.tv/?a=3&b=1 token=OOG17t.x#K9Vh#|
+ 
+#EXTINF:-1 tvg-logo="abcfamily.png" group-title="U.S.A",[COLOR aqua][I]ABC Family[/I][/COLOR]
+rtmpe://185.63.252.165:1935/goLive playpath=NyRerYqWuhRWGCsmb3f3 swfUrl=http://cdn.zerocast.tv/player-licensed.swf flashver=WIN\16,0,0,305 timeout=15 live=1swfVfy=1 pageUrl=http://zerocast.tv/?a=3&b=2 token=OOG17t.x#K9Vh#|
+ 
+#EXTINF:-1 tvg-logo="amc.png" group-title="U.S.A",[COLOR aqua][B][I]AMC HD[/I][/B][/COLOR]
+rtmpe://185.63.252.165:1935/goLive playpath=TfRQx7deUAuncJwM047m swfUrl=http://cdn.zerocast.tv/player-licensed.swf flashver=WIN\16,0,0,305 timeout=15 live=1swfVfy=1 pageUrl=http://zerocast.in/embed.php?a=34&id=&width=640&height=460&autostart=true&strech= token=OOG17t.x#K9Vh#|
+
+
+ 
+#EXTINF:-1,  [COLOR cyan]-- MOVIE CHANNEL --[/COLOR]  
+http://www.youtube.com/
+
+ 
+#EXTINF:-1 tvg-logo=".png" group-title="U.S.A",[COLOR aqua][B][I]HBO Signature[/I][/B][/COLOR]
+rtmp://94.102.63.54/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/view/1/watch-live-HBO-channel-for-free token=#ed%h0#w18623jsda6523lDGD timeout=15
+ 
+#EXTINF:-1 tvg-logo="hbo.png" group-title="U.S.A",[COLOR aqua][B][I]HBO HD[/I][/B][/COLOR]
+rtmpe://185.63.252.165:1935/goLive playpath=qKmzUdRhBM73njBBDFyL swfUrl=http://cdn.zerocast.tv/player-licensed.swf flashver=WIN\16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/?a=3&b=845
+ 
+#EXTINF:-1 tvg-logo="fxhd.png" group-title="U.S.A",[COLOR aqua][B][I]FX HD[/I][/B][/COLOR]
+rtmpe://185.63.252.165:1935/goLive playpath=VCV8SViFVBv2nX5RQwKI swfUrl=http://cdn.zerocast.tv/player-licensed.swf flashver=WIN\16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/?a=3&b=10
+ 
+ 
+#EXTINF:-1 tvg-logo="mtv.png" group-title="U.S.A",[COLOR aqua][B][I]MTV[/I][/B][/COLOR]
+rtmpe://185.63.252.165:1935/goLive playpath=7U8HX14EnQVGCFy swfUrl=http://cdn.zerocast.tv/player-licensed.swf flashver=WIN\16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/?a=3&b=12
+ 
+ 
+#EXTINF:-1 tvg-logo="showtime.png" group-title="U.S.A",[COLOR aqua][B][I]Showtime HD[/I][/B][/COLOR]
+rtmpe://185.63.252.165:1935/goLive playpath=kbMD64czDshAmjDd4kxQ swfUrl=http://cdn.zerocast.tv/player-licensed.swf flashver=WIN\16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/?a=3&b=511
+ 
+#EXTINF:-1 tvg-logo="syfy.png" group-title="U.S.A",[COLOR aqua][B][I]SYFY[/I][/B][/COLOR]
+rtmpe://185.63.252.165:1935/goLive playpath=tPjsURqsVo4NSe23EhJP swfUrl=http://cdn.zerocast.tv/player-licensed.swf flashver=WIN\16,0,0,305 timeout=15 live=1swfVfy=1 pageUrl=http://zerocast.tv/?a=3&b=16 token=OOG17t.x#K9Vh#|
+ 
+#EXTINF:-1 tvg-logo="usa.png" group-title="U.S.A",[COLOR aqua][B][I]USA Network HD[/I][/B][/COLOR]
+rtmpe://185.63.252.165:1935/goLive playpath=jvZXQUYQmlsPirfiVK1G swfUrl=http://cdn.zerocast.tv/player-licensed.swf flashver=WIN\16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/?a=3&b=19
+ 
+#EXTINF:-1 tvg-logo="tnt.png" group-title="U.S.A",[COLOR aqua][B][I]TNT HD[/I][/B][/COLOR]
+rtmpe://185.63.252.165:1935/goLive playpath=Waz0WqvbqNHmt0gdzrsm swfUrl=http://cdn.zerocast.tv/player-licensed.swf flashver=WIN\16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/?a=3&b=309
+ 
+#EXTINF:-1 tvg-logo="fox5.png" group-title="U.S.A",[COLOR aqua][B][I]FOX 5 HD[/I][/B][/COLOR]
+rtmpe://185.63.252.165:1935/goLive playpath=9pxGCtP3aEnJYgoBFFH8 swfUrl=http://cdn.zerocast.tv/player-licensed.swf flashver=WIN\16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/?a=3&b=305
+ 
+#EXTINF:-1 tvg-logo="tbs.png",[COLOR aqua][B][I]TBS HD[/I][/B][/COLOR]
+rtmpe://185.63.252.165:1935/goLive playpath=RhMi9RdAAt7fpq8H3qZh swfUrl=http://cdn.zerocast.tv/player-licensed.swf flashver=WIN\16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/?a=3&b=17
+
+
+#EXTINF:-1, FX HD
+http://live.oneplay.tv/reproducir/101.m3u8
+
+#EXTINF:0,UNIVERSAL HD
+http://200.76.77.237/LIVE/H01/CANAL207/PROFILE03.m3u8?
+
+#EXTINF:0,WARNER HD
+http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?
+
+
+#EXTINF:-1,Cinemax HD
+rtmp://cdn.cast-tv.us/stream/ playpath=z00014.stream token=#ed%h0#w@1 swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/embed.php?n=z00014&vw=650&vh=450&domain=www.stream2watch.me live=true timeout=10
+
+
+#EXTINF:-1,Comedy Central HD
+rtmp://167.114.65.88/medium/ Playpath=sp swfUrl=http://www.flashwebtown.com/mediaplayer/mediaplayer.swf pageUrl=http://tvtoss.com/channel-frames/Comedy_Central/comedy_central_usa_channel_server-1.php live=1
+
+
+#EXTINF:-1, FOX MOVIES HD 
+http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8? 
+
+#EXTINF:-1, FOX LIFE (US) 
+http://cdn-02.sdn.si/foxlife/foxlife.m3u8 
+
+#EXTINF:-1, Fox Action (US) 
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8? 
+
+#EXTINF:-1, FOX CLASSICS (US) 
+http://200.76.77.237/LIVE/H01/CANAL478/PROFILE03.m3u8? 
+
+#EXTINF:-1, Movies 24/7 
+http://167.114.65.88/hls/mv.m3u8
+
+#EXTINF:0,MBC MAX 
+http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
+
+#EXTINF:0,Pink Action
+http://str108.setplex.net/fastv_2psh/PinkActionglobal_rly_greece_109/mojtube.m3u8
+
+#EXTINF:0,Pink Action 2
+http://str108.setplex.net/fastv_2psh/PinkAction2global_rly_greece_103/mojtube.m3u8
+
+#EXTINF:0,PINK ACTION 3
+http://str108.setplex.net/fastv_2psh/PinkAction3global_rly_greece_103/mojtube.m3u8
+
+#EXTINF:0,Pink Horror
+http://str108.setplex.net/fastv_2psh/PinkHorrorglobal_rly_greece_103/mojtube.m3u8
+
+#EXTINF:0,Pink Movies 2
+http://str108.setplex.net/fastv_2psh/PinkMovies2global_rly_greece_109/mojtube.m3u8
+
+#EXTINF:0,Pink Movies 3
+http://str108.setplex.net/fastv_2psh/PinkMovies3global_rly_greece_109/mojtube.m3u8
+
+#EXTINF:0,Pink Premium
+http://str108.setplex.net/fastv_2psh/PinkPremiumglobal_rly_greece_103/mojtube.m3u8
+
+#EXTINF:0,Pink Western
+http://str108.setplex.net/fastv_2psh/PinkWesternglobal_rly_greece_103/playlist.m3u
+
+
+
+#EXTINF:-1,  [COLOR cyan]-- DISCOVERY CHANNEL --[/COLOR]  
+http://www.youtube.com/
+
+#EXTINF:0,ANIMAL PLANET
+http://37.48.118.32/live/animal.stream/playlist.m3u8
+ 
+#EXTINF:-1,DISCOVERY CHANNEL
+http://37.48.118.32/live/discoveryh.stream/master.m3u8
+ 
+#EXTINF:0,NATIONAL GEOGRAPHIC HD 720p
+http://cdn-02.sdn.si/natgeo/natgeo.m3u8
+#EXTINF:-1,POP
+
+#EXTINF:-1,Discovery History
+http://37.48.118.32/live/discoveryh.stream/master.m3u8
+
+
+#EXTINF:0",NatGeo Wild
+http://cdn-02.sdn.si/natgeowild/natgeowild.m3u8
+
+#EXTINF:0,RT Documentary HD
+http://odna.octoshape.net/f3f5m2v4/cds/ch5_720p/chunklist.m3u8
+
+
+
+#EXTINF:-1,  [COLOR cyan]-- SPORT CHANNEL --[/COLOR]  
+http://www.youtube.com/
+
+#EXTINF:-1,SKY SPORTS 1
+http://4.31.30.145:9141
+
+#EXTINF:-1,SKY SPORTS 2
+http://4.31.30.145:9142
+
+#EXTINF:-1,SKY SPORTS 3
+http://4.31.30.145:9140
+
+#EXTINF:-1,SKY SPORTS 4
+http://4.31.30.145:9137
+
+#EXTINF:0,SKY SPORTS 5
+http://4.31.30.145:9134
+ 
+#EXTINF:0,BEIN US - HD 720p
+http://4.31.30.145:9128
+ 
+  
+#EXTINF:-1,sky sport 1
+http://4.31.30.145:9141
+
+#EXTINF:-1,sky sport 2
+http://4.31.30.145:9142
+
+#EXTINF:-1,sky sport 3
+http://4.31.30.145:9140
+
+sky sport 5
+http://4.31.30.145:9134
+
+#EXTINF:-1,bein
+http://4.31.30.145:9128
+
+#EXTINF;:-1,bein 1
+http://4.31.30.145:9135
+
+#EXTINF:-1,bein 2
+http://4.31.30.145:9133
+
+#EXTINF:-1,bein 3
+http://4.31.30.145:9139
+
+#EXTINF:-1,bein 4
+http://4.31.30.145:9131
+
+#EXTINF:-1,BEIN SPORTS 1 HD 
+http://2co1.vp9.tv/chn/bin01/v.m3u8 
+
+#EXTINF:-1,BEIN SPORTS 2 HD 
+http://2co1.vp9.tv/chn/bin02/v.m3u8 
+
+#EXTINF:-1,BEIN SPORTS 4 HD 
+http://2co1.vp9.tv/chn/bin04/v.m3u8 
+
+#EXTINF:0,ESPN
+http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?
+
+#EXTINF:0,ESPN2
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?
+
+#EXTINF:0,ESPN HD SPA
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?
+
+#EXTINF:0,Fox Sports
+http://113.160.49.34/lives/origin03/foxhd.isml/foxhd-2096k.m3u8
+
+#EXTINF:0,Eurosports 1
+http://213.250.19.50/eurosport/eurosport.isml/eurosport-video=2500000-audio101=128000.m3u8
+
+#EXTINF:0,Eurosports 2
+http://213.250.19.50/eurosport2/eurosport2.isml/eurosport2-video=2500000-audio101=128000.m3u8
+
+#EXTINF:0,Sporttv 1
+http://213.250.19.50/sporttv1/sporttv1.isml/sporttv1-video=4500000-audio101=128000.m3u8
+
+#EXTINF:0,Sporttv 2
+http://213.250.19.50/sporttv2/sporttv2.isml/sporttv2-video=4500000-audio101=128000.m3u8
+
+#EXTINF:0,Sporttv 3
+http://213.250.19.50/sporttv3/sporttv3.isml/sporttv3-video=4500000-audio101=128000.m3u8
+
+
+
+#EXTINF:-1,  [COLOR cyan]-- OTHERS CHANNEL --[/COLOR]  
+http://www.youtube.com/
+
+#EXTINF:-1,Channel4
+http://37.48.118.32/live/c4.stream/master.m3u8
+
+#EXTINF:-1,Channel5
+http://37.48.118.32/live/five.stream/master.m3u8
+
+#EXTINF:-1,MTV Music
+http://37.48.118.32/live/mtvmusic.stream/master.m3u8
+
+#EXTINF:-1,MTV Hits
+http://37.48.118.32/live/mtvhits.stream/master.m3u8
+
+#EXTINF:-1,MTV Classic
+http://37.48.118.32/live/mtvclassic.stream/master.m3u8
+
+#EXTINF:-1,Dave
+http://37.48.118.32/live/dave.stream/master.m3u8
+
+#EXTINF:-1,BBC One UK
+http://www.bbc.co.uk/mediaselector/playlists/hls/mobile_wifi/ak/bbc1.m3u8
+
+#EXTINF:-1,BBC Two UK
+http://www.bbc.co.uk/mediaselector/playlists/hls/mobile_wifi/ak/bbc2.m3u8
+
+#EXTINF:0,BBC 3
+http://www.filmon.tv/channel/export?channel_id=113&affid=66747Hg
+
+#EXTINF:0,BBC 4
+http://www.filmon.tv/channel/export?channel_id=103&affid=66747Hg
+
+#EXTINF:0,ITV1 UK 
+http://uk.stream.yo.tv/livehttporigin/ITV1_360p.stream/chunklist.m3u8
+
+#EXTINF:-1,Channel 4 UK
+http://uk.stream.yo.tv/livehttporigin/Channel4_360p.stream/chunklist.m3u8
+
+
+#EXTINF:0, UK Gold
+http://37.48.118.32/live/ukgold.stream/playlist.m3u8
+
+#EXTINF:0,Sky Arts1 
+http://37.48.118.32/live/skyarts1.stream/playlist.m3u8
+
+#EXTINF:0,Sky Arts2
+http://37.48.118.32/live/skyarts2.stream/playlist.m3u8
+
+
+#EXTINF:0,3E Ireland
+http://37.48.118.32/live/3e.stream/master.m3u8
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 radio="true",[COLOR yellow] RED.FM [/COLOR]
+http://starrfm.rastream.com/starrfm-redfm?type=.flv
+
+#EXTINF:-1 radio="true",[COLOR yellow] HITZ.FM [/COLOR]
+http://astro1.rastream.com/hitz
+
+#EXTINF:-1 radio="true",[COLOR yellow] LITE.FM [/COLOR]
+http://astro1.rastream.com/lite
+
+#EXTINF:-1 radio="true",[COLOR yellow] MY.FM [/COLOR]
+http://astro1.rastream.com/myfm
+
+#EXTINF:-1 radio="true",[COLOR yellow] MIX.FM [/COLOR]
+http://astro2.rastream.com/mix
+
+#EXTINF:-1 radio="true",[COLOR yellow] SINAR.FM [/COLOR]
+http://astro2.rastream.com/sinar
+
+#EXTINF:-1 radio="true",[COLOR yellow] ERA.FM [/COLOR]
+http://astro2.rastream.com/era
+
+#EXTINF:-1 radio="true",[COLOR yellow] OPUS.FM [/COLOR]
+http://astro4.rastream.com/opus
+
+#EXTINF:-1 radio="true",[COLOR yellow] GOLD.FM [/COLOR]
+http://astro4.rastream.com/gold
+
+#EXTINF:-1 radio="true",[COLOR yellow] JAZZ.FM [/COLOR]
+http://astro4.rastream.com/jazz
+
+#EXTINF:-1 radio="true",[COLOR yellow] ROCK.FM [/COLOR]
+http://astro4.rastream.com/rock
+
+
+
+
+
